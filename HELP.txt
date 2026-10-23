@@ -1,0 +1,32 @@
+============================================================
+APEX DOCK - USER GUIDE & DOCUMENTATION
+============================================================
+
+Please refer to README.md in this folder for complete documentation, 
+troubleshooting tips, and customization instructions.
+
+QUICK START:
+------------
+1. Right-click on the dock background to open settings:
+   - Toggle Ball Animation [ON] / [OFF]
+   - Change Ball Speed (e.g. 1.0, 1.5, 2.0)
+   - Toggle Icon Hover Magnification [ON] / [OFF]
+   - Change Hover Speed (e.g. 1.0, 1.5, 2.0)
+   - Add new app or shortcut
+
+2. Drag & Drop:
+   - Drag any .exe or shortcut directly from your computer onto 
+     the dock to automatically add it.
+   - Click and drag icons left/right to rearrange their order.
+
+3. App Options:
+   - Right-click directly on any app icon to launch, change icon, 
+     edit, or remove it.
+
+4. Zero CPU:
+   - When the cursor leaves the dock, the skin automatically 
+     enters sleep mode (0% CPU).
+
+For complete details, open README.md located at:
+#CURRENTPATH#README.md
+============================================================
